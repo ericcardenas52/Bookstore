@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Bookstore - Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Online Bookstore!</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="detail.html">Details</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Home Page</h2>
+    <p>
+      This is the home page of our online bookstore. Explore our collection of books and find your next favorite read!
+    </p>
+    <a href="detail.html">View Book Details</a>
+    <a href="about.html">About Us</a>
+  </main>
+
+  <footer>
+    <p>Contact information: bookstore@example.com</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
