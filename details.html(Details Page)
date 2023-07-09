@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Bookstore - Book Details</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Online Bookstore!</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="detail.html">Details</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Book Details</h2>
+    <p>
+      This is the details page for a specific book in our online bookstore.
+    </p>
+    <a href="index.html">Go Back to Home</a>
+    <a href="about.html">About Us</a>
+  </main>
+
+  <footer>
+    <p>Contact information: bookstore@example.com</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
