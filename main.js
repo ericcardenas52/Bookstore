@@ -1,4 +1,3 @@
-// JavaScript code goes here
 window.addEventListener('DOMContentLoaded', function() {
     // Simulated book data
     const featuredBooksData = [
@@ -9,7 +8,6 @@ window.addEventListener('DOMContentLoaded', function() {
   
     const bookList = document.querySelector('.book-list');
   
-    // Create featured books dynamically
     featuredBooksData.forEach(book => {
       const bookElement = document.createElement('div');
       bookElement.classList.add('book');
