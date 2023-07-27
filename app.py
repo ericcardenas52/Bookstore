@@ -11,7 +11,6 @@ def register():
     if request.method == 'POST':
         username = request.form['username']
         email = request.form['email']
-        # You can perform any further processing or validation with the user data here
 
         return render_template('thank_you.html', username=username, email=email)
 
